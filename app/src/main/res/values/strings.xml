@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">HelloAndroid</string>
-    <string name="hello">変更してみたよ！あんどろいど！</string>
+    <string name="hello">変更！あんどろいど！</string>
     <string name="tap_here">check！</string>
 </resources>
